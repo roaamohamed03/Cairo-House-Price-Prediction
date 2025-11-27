@@ -31,9 +31,9 @@ The model achieved very high accuracy with low error values, indicating strong p
 ---
 
 ## 📁 Dataset
-The dataset is stored on Google Drive:
+The dataset is from kaggle:
 
-👉 [Click here to access the dataset](https://drive.google.com/file/d/1PpoNPemV-JZfWx1khyPDVLZla62OqrGU/view?usp=sharing)
+👉 [Click here to access the dataset](https://www.kaggle.com/datasets/iyadelwy/egypt-housing-prices)
 
 ---
 
